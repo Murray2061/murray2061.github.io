@@ -28,10 +28,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-First Header | Second Header
---------
-Cell 1, 1 | Cell 1, 2
-Cell 2, 1 | Cell 2, 2
+First Header | Second Header | Third Header
+--------------|----------------|----
+Cell 1, 1 | Cell 1, 2 | Cell 1, 3
+Cell 2, 1 | Cell 2, 2 | Cell 2, 3
+Cell 3, 1 | Cell 3, 2 | Cell 3, 3
+Cell 4, 1 | Cell 4, 2 | Cell 4, 3
 
 ### Jekyll Themes
 
