@@ -28,6 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+Math Test: $x \to y$
+
 First Header | Second Header | Third Header
 --------------|----------------|----
 Cell 1, 1 | Cell 1, 2 | Cell 1, 3
