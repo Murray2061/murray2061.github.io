@@ -28,6 +28,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+First Header | Second Header
+--------
+Cell 1, 1 | Cell 1, 2
+Cell 2, 1 | Cell 2, 2
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Murray2061/murray2061.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
